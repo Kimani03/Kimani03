@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
  
- <img align="right" alt="coding" width="400" src=:img align="left"><img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrf9SIondFTDW7GszOj0Pnz1IDkzTRfltLVwTFOYtl1xnix2D9g5AsudW32_2v1VyL6Cw&usqp=CAU">
+ <img align="right" alt="coding" width="400" src=:img align="left"><img scr="![Alt text](image-2.png)">
 
 <p align="left">
 <a href="https://twitter.com/muria254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muria254" height="30" width="40" /></a>
