@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am a code fanatic**
 
 - Certifications
-- 
+- https://coursera.org/share/3b4f2c2acef0ce80f6d7d1715cd785f0 
 
 <h3 align="left">Connect with me:</h3>
  
