@@ -2,14 +2,6 @@
   <img src="https://media.giphy.com/media/LUH5n611NkzLh8JjVg/giphy.gif?cid=ecf05e47kxkmcyy39q1443v68p8thuxtqcqdp288m8i85zck&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
-logo={https://www.linkedin.com/in/victor-kimani-a46a11248/}
-logoColor={blue}
-
-
-
-
-
-
 ## Hi there 👋
 
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
@@ -49,9 +41,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   </a>
   <a href="https://twitter.com/Kimani_dev">
     <img src="https://img.shields.io/badge/Kimani_devs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
